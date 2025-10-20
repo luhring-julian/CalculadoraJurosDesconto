@@ -1,7 +1,6 @@
 #=========================================
 # Calculadora de Juros Simples e Descontos
 # Desenvolvida para reforçar os conhecimentos adquiridos no Bootcamp LuizaLabs
-# Usa apenas 
 #=========================================
 
 print("=== CALCULADORA DE JUROS SIMPLES E DESCONTO ===")
